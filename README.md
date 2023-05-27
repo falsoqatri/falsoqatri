@@ -3,7 +3,7 @@
 <h2>👨‍💻 Security and risk management Projects:</h2>
 
 - <b>Risk Assessment Practice </b>
-  - [Quantitative Risk Assessment]([https://github.com/falsoqatri/qualitative_risk_assessment_LAB])
+  - [Quantitative Risk Assessment](https://github.com/falsoqatri/qualitative_risk_assessment_LAB)
 
 <h2>📺 Training course</h2>
 
