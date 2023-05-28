@@ -9,6 +9,7 @@
  - <b>Pampered Pets Digital transformation</b>
     - [Digital transformation strategy, design and plan](https://github.com/falsoqatri/Pamperst_pets_Digital_Transformation)
     - [Case 2: risk assessment after digitalization](https://github.com/falsoqatri/RA_after_digitalization)
+    - [Quantitative risk modelling approach Applied to Pampered Pets] (https://github.com/falsoqatri/RA_after_digitalization)
 
 <h2>📺 Training course</h2>
 
