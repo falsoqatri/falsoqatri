@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Security and risk management Projects:</h2>
 
-- <b> Case 2: risk assessment after digitalization </b>
+- <b> Risk Assessment practice tools and codes </b>
   - [Risk Identification Lab](https://github.com/falsoqatri/Risk_identification_LAB)
   - [Quantitative Risk Assessment](https://github.com/falsoqatri/qualitative_risk_assessment_LAB)
   
  - <b>Pampered Pets Digital transformation</b>
     - [Digital transformation strategy, design and plan](https://github.com/falsoqatri/Pamperst_pets_Digital_Transformation)
-    - [Quantitative Risk Assessment](https://github.com/falsoqatri/qualitative_risk_assessment_LAB)
+    - [Case 2: risk assessment after digitalization](https://github.com/falsoqatri/qualitative_risk_assessment_LAB)
 
 <h2>📺 Training course</h2>
 
