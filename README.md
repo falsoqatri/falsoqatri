@@ -7,7 +7,7 @@
   - [Quantitative Risk Assessment](https://github.com/falsoqatri/qualitative_risk_assessment_LAB)
   
  - <b>Pampered Pets Digital transformation</b>
-    - [Digital transformation strategy, design and plan](https://github.com/falsoqatri/Risk_identification_LAB)
+    - [Digital transformation strategy, design and plan](https://github.com/falsoqatri/Pamperst_pets_Digital_Transformation)
     - [Quantitative Risk Assessment](https://github.com/falsoqatri/qualitative_risk_assessment_LAB)
 
 <h2>📺 Training course</h2>
