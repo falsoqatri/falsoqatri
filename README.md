@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Security and risk management Projects:</h2>
 
-- <b>Risk Assessment Practice </b>
+- <b> Case 2: risk assessment after digitalization </b>
   - [Risk Identification Lab](https://github.com/falsoqatri/Risk_identification_LAB)
   - [Quantitative Risk Assessment](https://github.com/falsoqatri/qualitative_risk_assessment_LAB)
   
